@@ -8,6 +8,7 @@ pip install -r requirements.txt
 
 ### Preprocess
 차례로 노트북을 실행시켜 data폴더 아래로 데이터 생성 노트북 맨 위에 있는 split 변수를 train, val, test 순으로 변경하며 데이터 생성
+
 data_process_rev.ipynb : specific query에 대한 data만 가져올 수 있음
 
 make_sentence.ipynb : turn 단위로 relevant span이 들어가 있는지 없는지를 기준으로 labeling
