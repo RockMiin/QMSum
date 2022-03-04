@@ -6,6 +6,11 @@
 pip install -r requirements.txt
 ```
 
+### Data
+해당 링크의 data/ALL/jsonl 폴더 안에 있는 train, val, test.jsonl 파일을 
+https://github.com/Yale-LILY/QMSum
+
+
 ### Preprocess
 차례로 노트북을 실행시켜 data폴더 아래로 데이터 생성 노트북 맨 위에 있는 split 변수를 train, val, test 순으로 변경하며 데이터 생성
 
