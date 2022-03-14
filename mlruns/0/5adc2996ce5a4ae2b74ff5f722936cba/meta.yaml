@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hadoop/rocky/_TMP_QMSUM/mlruns/0/5adc2996ce5a4ae2b74ff5f722936cba/artifacts
+end_time: 1647233503581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5adc2996ce5a4ae2b74ff5f722936cba
+run_uuid: 5adc2996ce5a4ae2b74ff5f722936cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647233420518
+status: 3
+tags: []
+user_id: hadoop
