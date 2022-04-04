@@ -6,10 +6,6 @@
 pip install -r requirements.txt
 ```
 
-https://github.com/RockMiin/QMSum/blob/master/haystack_dpr.ipynb
-
-https://colab.research.google.com/github/RockMiin/QMSum/blob/master/haystack_dpr.ipynb
-
 ### Data
 해당 링크의 data/ALL/jsonl 폴더 안에 있는 train, val, test.jsonl 파일을 
 https://github.com/Yale-LILY/QMSum
